@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es6",
+    "lib": ["dom", "es6"],
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "inlineSources": true,
+    "inlineSourceMap": true
+  },
+  "exclude": [
+    "node_modules",
+    "www"
+  ]
+}
