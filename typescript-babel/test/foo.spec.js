@@ -1,7 +1,7 @@
 import Foo from '../src/foo';
 
 describe('Foo', () => {
-  let foo: Foo;
+  let foo;
 
   beforeEach(() => { foo = new Foo() });
 
